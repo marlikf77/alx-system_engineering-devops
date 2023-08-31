@@ -1,1 +1,1 @@
-read me filr for shell permission
+README file for shell permissions
